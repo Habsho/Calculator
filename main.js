@@ -16,7 +16,7 @@ function pushBtn(obj) {
   }
 }
 
-$(document).ready(function() {
+/* $(document).ready(function() {
   $(".habsho").click(function() {
     $("#input").css("color", "green");
   });
@@ -27,3 +27,4 @@ $(document).ready(function() {
     $("#input").css("color", "white");
   });
 });
+ */
