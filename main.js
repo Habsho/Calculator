@@ -21,3 +21,9 @@ $(document).ready(function() {
     $("#input").css("color", "green");
   });
 });
+
+$(document).ready(function() {
+  $(".back").click(function() {
+    $("#input").css("color", "white");
+  });
+});
